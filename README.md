@@ -1,4 +1,4 @@
-# create-_IO_FILE.py
+# _IO_FILE.py
 Create _IO_FILE structure and create payload _IO_str_overflow() and _IO_str_finish().
 
 This module creates _IO_FILE_plus structure.
